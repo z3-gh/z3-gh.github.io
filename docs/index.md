@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Z3's Blog"
-  text: "博文约思，集粹藏珍"
+  text: "博采凝思，聚粹存珍"
   tagline: 收藏·沉淀·存档
   actions:
     - theme: brand
