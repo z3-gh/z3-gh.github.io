@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Z3's Blog"
-  text: "个人博客、知识库、资源站"
-  tagline: My great project tagline
+  text: "博文约思，集粹藏珍"
+  tagline: 收藏·沉淀·存档
   actions:
     - theme: brand
       text: 在线资源
@@ -15,8 +15,8 @@ hero:
       link: /实用工具
 
 features:
-  - title: 网络资源
-    details: 收集有价值的网络资源
+  - title: 在线资源
+    details: 收集有价值的在线资源
   - title: 优秀软件
     details: 寻找清爽纯粹的优秀软件
   - title: 最佳实践
