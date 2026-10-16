@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Z3's Blog"
-  text: "博采凝思，聚粹存珍"
-  tagline: 收藏·沉淀·存档
+  name: "Z3 Blog"
+  text: "互联网需求解决方案库"
+  tagline: 以需求为导向，提供开源免费落地方案
   actions:
     - theme: brand
       text: 在线资源
@@ -15,11 +15,11 @@ hero:
       link: /实用工具
 
 features:
-  - title: 在线资源
-    details: 收集有价值的在线资源
-  - title: 优秀软件
-    details: 寻找清爽纯粹的优秀软件
-  - title: 最佳实践
-    details: 追求小而美的精品内容
+  - title: 需求驱动
+    details: 基于真实使用场景分类索引
+  - title: 开源优先
+    details: 优先自由开源、无后门、可自查的工具
+  - title: 免费纯粹
+    details: 拒绝强制付费、拒绝订阅套路、拒绝广告捆绑
 ---
 
