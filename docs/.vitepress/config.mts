@@ -13,10 +13,19 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '页面导航',
+        text: '工具',
         items: [
-          { text: '在线资源', link: '/nav' },
-          { text: '实用工具', link: '/实用工具' }
+          { text: '访问Github', link: '/tools/visit-github' },
+          { text: '在线工具', link: '/tools/online-tools' }
+        ],
+      },
+      {
+        text: '娱乐',
+        items: [
+          { text: '阅读', link: '/entertainment/reading' },
+          { text: '影视', link: '/entertainment/video' },
+          { text: '音乐', link: '/entertainment/music' },
+          { text: '游戏', link: '/entertainment/games' }
         ]
       }
     ],
