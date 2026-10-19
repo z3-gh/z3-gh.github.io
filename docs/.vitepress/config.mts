@@ -17,7 +17,7 @@ export default defineConfig({
         items: [
           { text: '访问Github', link: '/tools/visit-github' },
           { text: '在线工具', link: '/tools/online-tools' }
-        ],
+        ],link: '/tools/'
       },
       {
         text: '娱乐',
@@ -25,8 +25,11 @@ export default defineConfig({
           { text: '阅读', link: '/entertainment/reading' },
           { text: '影视', link: '/entertainment/video' },
           { text: '音乐', link: '/entertainment/music' },
-          { text: '游戏', link: '/entertainment/games' }
-        ]
+          { text: '游戏', link: '/entertainment/game' }
+        ],link: '/entertainment/'
+      },
+      {
+        text: '资源',link: '/resources/'
       }
     ],
 

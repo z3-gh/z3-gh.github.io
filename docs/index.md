@@ -8,11 +8,14 @@ hero:
   tagline: 以需求为导向，提供开源免费落地方案
   actions:
     - theme: brand
-      text: 在线工具
-      link: /tools/online-tools
-    - theme: alt
-      text: 访问Github
-      link: /tools/visit-github
+      text: 工具
+      link: /tools/
+    - theme: brand
+      text: 娱乐
+      link: /entertainment/
+    - theme: brand
+      text: 资源
+      link: /resources/
 
 features:
   - title: 需求驱动
