@@ -15,7 +15,6 @@ hero:
       link: /entertainment/
     - theme: alt
       text: 资源
-      link: /resources/
     - text: 返回首页
       link: /
       variant: outline

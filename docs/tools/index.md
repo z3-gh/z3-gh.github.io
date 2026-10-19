@@ -9,7 +9,6 @@ hero:
   actions:
     - theme: alt
       text: 工具
-      link: /tools/
     - theme: brand
       text: 娱乐
       link: /entertainment/

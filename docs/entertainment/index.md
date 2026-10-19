@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: 娱乐专区
+  name: 娱乐
   text: 阅读 · 影视 · 音乐 · 游戏
   tagline: 个人休闲娱乐解决方案
 
@@ -12,13 +12,12 @@ hero:
       link: /tools/
     - theme: alt
       text: 娱乐
-      link: /entertainment/
     - theme: brand
       text: 资源
       link: /resources/
-    - text: 返回首页
+    - theme: brand
+      text: 返回首页
       link: /
-      variant: outline
 
 features:
   - icon: 📖
