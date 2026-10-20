@@ -15,6 +15,4 @@
 [**老游戏在线玩**](https://zaixianwan.app/)、
 [**免费线上游戏**](https://zh.y8.com/)、
 [**Poki 宝玩**](https://poki.com/zh)、
-[**AirConsole - 多人游戏**](https://www.airconsole.com/)、
-[**flysheep资源避难所**](https://www.flysheep6.com/)、
-[**乐游网**](https://www.962.net/)
+[**AirConsole - 多人游戏**](https://www.airconsole.com/)

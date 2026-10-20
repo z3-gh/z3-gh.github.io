@@ -23,7 +23,7 @@ features:
   - title: 加速访问Github
     details: 解决GitHub打不开、下载慢问题
     link: ./visit-github
-  - title: 在线工具
-    details: 简单分类的在线工具集
-    link: ./online-tools
+  - title: 传文件
+    details: 快速、跨平台分享文件
+    link: ./send-files
 ---

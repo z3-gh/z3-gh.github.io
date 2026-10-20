@@ -18,7 +18,7 @@ export default defineConfig({
           text: '工具',
           items: [
             { text: '访问Github', link: '/tools/visit-github' },
-            { text: '在线工具', link: '/tools/online-tools' }
+            { text: '传文件', link: '/tools/send-files' }
           ], link: '/tools/'
         }
       ],

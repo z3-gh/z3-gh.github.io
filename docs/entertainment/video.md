@@ -15,20 +15,6 @@
 [**88影视**](https://www.88kan.org/)、
 [**努努影院**](https://nnyy.la/)
 
-[**诸神字幕组**](https://subs.kamigami.org/)、
-[**动漫花园**](https://dongmanhuayuan.myheartsite.com/)、
-[**热剧搜索**](https://rejusou.com/)、
-[**A控屋**](https://akongwu.com/)、
-[**肥猫追剧**](https://mao.souldebug.com/)、
-[**TV搜**](https://www.tvso.uk/)、
-[**追新番**](https://www.fanxinzhui.com/)、
-[**曦阳小站**](http://yulinshufa.cn/)、
-[**音范丝**](https://www.yinfans.me/)、
-[**爱努努绿色电影**](https://video.ainunu.cc/)、
-[**SeedHub影视**](https://www.seedhub.cc/)、
-[**美剧粉**](https://www.mjf2020.com/)、
-[**老电影时光**](https://www.ldysg.com/)
-
 [**央视网**](https://tv.cctv.com/live/)、
 [**哔哩哔哩直播**](https://live.bilibili.com/)、
 [**抖音直播**](https://live.douyin.com/)、
