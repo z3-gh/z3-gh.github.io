@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: 娱乐
-  text: 阅读 · 影视 · 音乐 · 游戏
-  tagline: 个人休闲娱乐解决方案
+  text: 
+  tagline: 休闲娱乐解决方案
 
   actions:
     - theme: brand

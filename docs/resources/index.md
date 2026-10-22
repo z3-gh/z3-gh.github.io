@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: Z3导航
-  text: 综合资源中心
+  name: 资源中心
+  text: 
   tagline: 聚合之聚合，导航之导航
 
   actions:
@@ -39,7 +39,10 @@ features:
   - title: 迷鹿导航
     details: 综合导航
     link: https://www.plnav.com/
-  - title: 喵呼导航
-    details: 测试用导航
-    link: https://www.meowhu.com
+  - title: 宝藏导航
+    details: 综合导航
+    link: https://baozangdh.com/
+  - title: 酷拉鱼导航
+    details: 综合导航
+    link: https://www.kulayu.com/
 ---
