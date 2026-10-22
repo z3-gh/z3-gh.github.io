@@ -22,7 +22,7 @@ hero:
 features:
   - icon: 📖
     title: 阅读
-    details: 看小说、看漫画、看出版书
+    details: 小说、漫画、图书
     link: ./reading
   - icon: 🎬
     title: 影视
