@@ -81,5 +81,22 @@ features:
     title: 迷鹿导航
     details: 综合导航
     link: https://www.plnav.com/
-
+  - icon:
+      src:
+        https://favicon.run/favicon?domain=baozangdh.com&sz=64
+      alt: 宝藏导航
+      width: 48
+      height: 48
+    title: 宝藏导航
+    details: 综合导航
+    link: https://baozangdh.com/
+  - icon:
+      src:
+        https://favicon.run/favicon?domain=kulayu.com&sz=64
+      alt: 酷拉鱼导航
+      width: 48
+      height: 48
+    title: 酷拉鱼导航
+    details: 综合导航
+    link: https://www.kulayu.com/
 ---
