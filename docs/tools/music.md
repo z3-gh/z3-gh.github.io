@@ -1,5 +1,10 @@
 # 音乐
 
+## 免费开源音乐播放器——LX Music（跨平台）
+
+1. 下载安装[LX Music](https://www.lxmusic.cn/)
+2. 下载[音源](https://github.com/guoyue2010/lxmusic-/releases)并解压，打开软件设置-自定义源-导入，选择解压的 音源文件导入并打勾**✔**。
+
 ## 在线音乐
 
 [**布谷音乐**](https://www.buguyy.top/)、

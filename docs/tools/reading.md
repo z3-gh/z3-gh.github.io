@@ -5,12 +5,12 @@
 1. 下载安装[阅读](https://github.com/HapeLee/legado-with-MD3/releases)
 2. 打开[书源](https://legado.aoaostar.com/)，一键导入。
 
-## 看漫画、图书(Android、iOS、Windows)
+## 看漫画、图书(跨平台)
 
 下载安装[Cmbok](https://bluemood.xiaomy.net/)，并导入漫画源。
 >*亦可添加书源看小说*
 
-## 在线阅读、下载（Web）
+## 在线阅读
 
 [**盐选**](https://www.yanxuan.org/)、
 [**3q小说网**](https://www.3qxsw.com/)、

@@ -4,17 +4,14 @@ layout: home
 
 hero:
   name: "Z3 Blog"
-  text: "互联网需求解决方案库"
-  tagline: 以需求为导向，提供开源免费落地方案
+  text: 一个需求导向的知识库
+  tagline: 挖掘网络资源，记录有价值的内容
   actions:
     - theme: brand
-      text: 工具
+      text: 工具教程
       link: /tools/
     - theme: brand
-      text: 娱乐
-      link: /entertainment/
-    - theme: brand
-      text: 资源
+      text: 资源导航
       link: /resources/
 
 features:

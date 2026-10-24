@@ -1,7 +1,7 @@
 # 看视频（Android）
 
 1. 下载安装[webhometv](https://github.com/fish2018/webhtv/releases)
-2. 打开[接口站](https://www.饭太硬.cc/)，点击复制接口，粘贴到影视app设置-点播-配置
+2. 打开[接口站](https://www.juwanhezi.com/jsonlist)，点击复制接口，粘贴到影视app设置-点播-配置
 
 ## 在线影视
 

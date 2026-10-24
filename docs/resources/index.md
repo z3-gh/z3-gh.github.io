@@ -2,44 +2,84 @@
 layout: home
 
 hero:
-  name: Z3导航
-  text: 综合资源中心
-  tagline: 聚合之聚合，导航之导航
+  name: 资源导航
+  text: 
+  tagline: 在线资源中心
 
   actions:
     - theme: brand
-      text: 工具
+      text: 工具教程
       link: /tools/
-    - theme: brand
-      text: 娱乐
-      link: /entertainment/
     - theme: alt
-      text: 资源
+      text: 资源导航
     - theme: brand
       text: 返回首页
       link: /
 
 
 features:
-  - title: FreeNav
+  - icon:
+      src:
+        https://favicon.run/favicon?domain=123apps.com&sz=64
+      alt: 123apps
+      width: 48
+      height: 48
+    title: 123apps
+    details: 视频、音频、PDF 和文件转换在线工具
+    link: https://123apps.com/cn/
+  - icon:
+      src:
+        https://favicon.run/favicon?domain=freenav.net&sz=64
+      alt: freenav
+      width: 48
+      height: 48
+    title: FreeNav
     details: 开源软件
     link: https://freenav.net/
-  - title: TBox
+  - icon:
+      src:
+        https://favicon.run/favicon?domain=tboxn.com&sz=64
+      alt: tbox
+      width: 48
+      height: 48
+    title: TBox
     details: 工具导航
     link: https://www.tboxn.com/
-  - title: CC免费素材
+  - icon:
+      src:
+        https://favicon.run/favicon?domain=mfsc.cc&sz=64
+      alt: 免费素材
+      width: 48
+      height: 48
+    title: CC免费素材
     details: 设计素材
     link: https://www.mfsc.cc/
-  - title: ModZoo
+  - icon:
+      src:
+        https://favicon.run/favicon?domain=jcpoo.cn&sz=64
+      alt: ModZoo
+      width: 48
+      height: 48
+    title: ModZoo
     details: 修改版资源
     link: https://www.jcpoo.cn/
-  - title: 硬核指南
+  - icon:
+      src:
+        https://favicon.run/favicon?domain=yinghezhinan.com&sz=64
+      alt: 硬核指南
+      width: 48
+      height: 48
+    title: 硬核指南
     details: 休闲娱乐
     link: https://yinghezhinan.com/
-  - title: 迷鹿导航
+  - icon:
+      src:
+        https://favicon.run/favicon?domain=plnav.com&sz=64
+      alt: 迷鹿导航
+      width: 48
+      height: 48
+    title: 迷鹿导航
     details: 综合导航
     link: https://www.plnav.com/
-  - title: 喵呼导航
-    details: 测试用导航
-    link: https://www.meowhu.com
+
 ---

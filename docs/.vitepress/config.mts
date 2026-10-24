@@ -18,19 +18,12 @@ export default defineConfig({
           text: '工具',
           items: [
             { text: '访问Github', link: '/tools/visit-github' },
-            { text: '传文件', link: '/tools/send-files' }
+            { text: '传文件', link: '/tools/send-files' },
+            { text: '阅读', link: '/tools/reading'},
+            { text: '影视', link: '/tools/video' },
+            { text: '音乐', link: '/tools/music' },
+            { text: '游戏', link: '/tools/game' }
           ], link: '/tools/'
-        }
-      ],
-      'entertainment': [
-        {
-          text: '娱乐',
-          items: [
-            { text: '阅读', link: '/entertainment/reading' },
-            { text: '影视', link: '/entertainment/video' },
-            { text: '音乐', link: '/entertainment/music' },
-            { text: '游戏', link: '/entertainment/game' }
-          ], link: '/entertainment/'
         }
       ],
       'resources': [

@@ -2,28 +2,43 @@
 layout: home
 
 hero:
-  name: 工具箱
+  name: 工具教程
   text: 
-  tagline: 收集有用的工具
+  tagline: 实用工具，优质教程
 
   actions:
     - theme: alt
-      text: 工具
+      text: 工具教程
     - theme: brand
-      text: 娱乐
-      link: /entertainment/
-    - theme: brand
-      text: 资源
+      text: 资源导航
       link: /resources/
-    - text: 返回首页
+    - theme: brand
+      text: 返回首页
       link: /
-      variant: outline
 
 features:
-  - title: 加速访问Github
+  - icon: 🚀
+    title: 加速访问Github
     details: 解决GitHub打不开、下载慢问题
     link: ./visit-github
-  - title: 传文件
+  - icon: 📤
+    title: 传文件
     details: 快速、跨平台分享文件
     link: ./send-files
+  - icon: 📖
+    title: 阅读
+    details: 看小说、看漫画、看出版书
+    link: ./reading
+  - icon: 🎬
+    title: 影视
+    details: 看视频
+    link: ./video
+  - icon: 🎵
+    title: 音乐
+    details: 听音乐
+    link: ./music
+  - icon: 🎮
+    title: 游戏
+    details: 玩游戏
+    link: ./game
 ---
