@@ -3,7 +3,10 @@
 ## 快速开始
 
 >1. 下载安装[LX Music](https://www.lxmusic.cn/)（跨平台）
->2. 导入音源：下载[音源](https://github.com/guoyue2010/lxmusic-/releases)并解压，打开软件设置-自定义源-导入，选择解压的音源文件导入并打勾**✔**。*（或复制导入在线音源`https://dl.kstore.dev/download/7890/Hei+Music.js`）*
+>2. 导入音源：下载[音源](https://github.com/guoyue2010/lxmusic-/releases/latest)并解压，打开软件设置-自定义源-导入，选择解压的音源文件导入。或复制导入在线音源:
+>::: details 在线音源
+>`https://dl.kstore.dev/download/7890/Hei+Music.js`
+>:::
 
 ## 在线音乐
 

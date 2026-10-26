@@ -2,8 +2,11 @@
 
 ## 快速开始
 
->1. 下载安装影视壳[webhometv](https://github.com/fish2018/webhtv/releases)
->2. 配置影视源：复制`https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/多仓订阅.json`，粘贴到影视app-设置-点播-配置
+>1. 下载安装影视壳[WebHomeTV](https://github.com/fish2018/webhtv/releases/latest)(Android)
+>2. 复制影视源粘贴到设置-点播-配置
+>::: details 影视源
+>`https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/多仓订阅.json`
+>:::
 
 ## 在线影视
 

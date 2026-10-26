@@ -2,19 +2,12 @@
 
 ## 快速开始
 
->### 看小说（Android）
->
->1. 下载安装[阅读](https://github.com/HapeLee/legado-with-MD3/releases)
->2. 打开[书源](https://legado.aoaostar.com/)，一键导入。
->
->### 看漫画、图书、小说(跨平台)
->
->1. 下载安装[Cmbok](https://bluemood.xiaomy.net/)
->2. 网盘同目录下载漫画源导入到 我的-漫画源仓库。
->3. 打开[书源](https://legado.aoaostar.com/)，复制书源直链，粘贴到我的-书源仓库，点击从地址导入。
->::: tip 提示
->图书、书源（小说）界面可左上角下拉切换
+>1. 下载安装[Cmbok](https://bluemood.xiaomy.net/)(跨平台)
+>2. 复制漫画源粘贴到漫画源仓库-云端仓库,点击从云端更新。
+>::: details 漫画源
+>`Q01TMQGlO6EJyu1gxi9PtFxnz/wYoT4MP4z2ojrEIxGGaOD6gGKE+dlsuQ4zdVFPgZGJpBdLw+5EzHINTjo0olc5SXzohs9UPZ27Zq4BQ2Gb0L/02gGWlejFRpTV2mkDgc9YWsrvR/RftMxIgRGHvjzeuWOj`
 >:::
+>3. 打开[书源](https://yuedu.xiu2.xyz/)，复制粘贴到书源仓库，点击从地址导入。
 
 ## 在线阅读
 
