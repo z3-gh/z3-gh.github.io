@@ -7,7 +7,7 @@
 
 >1. 下载安装[Cmbok](https://bluemood.xiaomy.net/)
 >2. 复制 <CopyText text="Q01TMQGlO6EJyu1gxi9PtFxnz/wYoT4MP4z2ojrEIxGGaOD6gGKE+dlsuQ4zdVFPgZGJpBdLw+5EzHINTjo0olc5SXzohs9UPZ27Zq4BQ2Gb0L/02gGWlejFRpTV2mkDgc9YWsrvR/RftMxIgRGHvjzeuWOj" tip="点击复制">漫画源</CopyText> 粘贴到漫画源仓库-云端仓库,点击从云端更新。
->3. 复制<CopyText test="https://yuedu.xiu2.xyz/" tip="点击复制">书源</CopyText>，粘贴到书源仓库，点击从地址导入。
+>3. 复制<CopyText text="https://www.yckceo.com/yuedu/shuyuans/json/id/1326.json" tip="点击复制">书源</CopyText>，粘贴到书源仓库，点击从地址导入。
 
 ## 在线阅读
 
