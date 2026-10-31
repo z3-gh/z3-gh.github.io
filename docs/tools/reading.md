@@ -3,7 +3,7 @@
 ## Cmbok (Windows、Mac、Linux、Android、iOS)
 >一款免费、开源、无广告的聚合阅读应用，将漫画和图书两套阅读器合二为一，共享书架、阅读进度和阅读历程，装一个应用就能满足所有阅读需求。
 
-## 快速开始
+### 快速开始
 
 1. 下载安装[Cmbok](https://bluemood.xiaomy.net/)
 2. 复制 <CopyText text="Q01TMQGlO6EJyu1gxi9PtFxnz/wYoT4MP4z2ojrEIxGGaOD6gGKE+dlsuQ4zdVFPgZGJpBdLw+5EzHINTjo0olc5SXzohs9UPZ27Zq4BQ2Gb0L/02gGWlejFRpTV2mkDgc9YWsrvR/RftMxIgRGHvjzeuWOj" tip="点击复制">漫画源</CopyText> 粘贴到漫画源仓库-云端仓库,点击从云端更新。
