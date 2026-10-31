@@ -84,11 +84,3 @@ hero:
   />
 </div>
 
-<style>
-.nav-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 16px;
-  margin-top: 48px;
-}
-</style>

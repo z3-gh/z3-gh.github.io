@@ -1,0 +1,18 @@
+/**
+ * 导航卡片网格容器
+ * 全局样式：任意 .md 中直接用 <div class="nav-container"> 包裹 <NavCard> 即可，
+ * 无需在页面内重复写 <style>。
+ */
+.nav-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+  margin-top: 48px;
+}
+
+@media (max-width: 640px) {
+  .nav-container {
+    grid-template-columns: 1fr;
+    margin-top: 24px;
+  }
+}

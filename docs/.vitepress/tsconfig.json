@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "jsx": "preserve",
+    "skipLibCheck": true,
+    "noEmit": true,
+    "allowArbitraryExtensions": false
+  },
+  "include": ["env.d.ts", "config.mts", "theme/**/*.ts", "theme/**/*.vue"]
+}
