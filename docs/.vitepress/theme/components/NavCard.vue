@@ -1,53 +1,28 @@
 <!-- .vitepress/theme/components/NavCard.vue -->
 <template>
-  <a
-    v-if="href"
-    class="nav-card"
-    :href="href"
-    :target="target"
-    rel="noopener noreferrer"
-  >
-    <div class="nav-card__icon">
-      <!-- 图片图标 -->
+  <a class="nav-card" :href="href" :target="linkTarget" rel="noopener noreferrer">
+    <div v-if="iconUrl || icon" class="nav-card__icon">
+      <img v-if="iconUrl" :src="iconUrl" :alt="title" width="48" height="48" />
       <img
-        v-if="isImgIcon"
+        v-else-if="isImgIcon(icon)"
         :src="icon.src"
-        :alt="icon.alt"
+        :alt="icon.alt ?? title"
         :width="icon.width ?? 48"
         :height="icon.height ?? 48"
       />
-      <!-- SVG组件 -->
-      <component v-else-if="isSvgIcon" :is="icon" />
-      <!-- Emoji -->
-      <span v-else>{{ icon }}</span>
+      <component v-else-if="icon && typeof icon !== 'string'" :is="icon" />
+      <span v-else-if="icon">{{ icon }}</span>
     </div>
     <div class="nav-card__content">
       <h3 class="nav-card__title">{{ title }}</h3>
       <p class="nav-card__desc">{{ details }}</p>
     </div>
   </a>
-
-  <div v-else class="nav-card">
-    <div class="nav-card__icon">
-      <img
-        v-if="isImgIcon"
-        :src="icon.src"
-        :alt="icon.alt"
-        :width="icon.width ?? 48"
-        :height="icon.height ?? 48"
-      />
-      <component v-else-if="isSvgIcon" :is="icon" />
-      <span v-else>{{ icon }}</span>
-    </div>
-    <div class="nav-card__content">
-      <h3 class="nav-card__title">{{ title }}</h3>
-      <p class="nav-card__desc">{{ details }}</p>
-    </div>
-  </div>
 </template>
 
 <script setup lang="ts">
 import { computed } from 'vue'
+import type { Component } from 'vue'
 
 type ImgIcon = {
   src: string
@@ -56,24 +31,36 @@ type ImgIcon = {
   height?: number
 }
 
+type Icon = string | ImgIcon | Component
+
 interface Props {
-  icon: string | ImgIcon | any
   title: string
   details: string
-  href?: string
-  target?: '_self' | '_blank'
+  href: string
+  icon?: Icon
 }
 
-const props = withDefaults(defineProps<Props>(), {
-  target: '_self'
+const props = defineProps<Props>()
+
+const siteOrigin = 'https://z3-gh.github.io'
+const isExternal = computed(() => {
+  const url = new URL(props.href, siteOrigin)
+  return (url.protocol === 'http:' || url.protocol === 'https:') && url.origin !== siteOrigin
 })
 
-const isImgIcon = computed(() => {
-  return typeof props.icon === 'object' && props.icon !== null && 'src' in props.icon
+const linkTarget = computed(() => (isExternal.value ? '_blank' : '_self'))
+
+const iconUrl = computed(() => {
+  if (!isExternal.value) return ''
+
+  const domain = new URL(props.href, siteOrigin).hostname
+  const params = new URLSearchParams({ domain, sz: '64' })
+  return `https://favicon.run/favicon?${params}`
 })
-const isSvgIcon = computed(() => {
-  return typeof props.icon !== 'string' && !isImgIcon.value
-})
+
+function isImgIcon(icon: Icon | undefined): icon is ImgIcon {
+  return typeof icon === 'object' && icon !== null && 'src' in icon && typeof icon.src === 'string'
+}
 </script>
 
 <style scoped>

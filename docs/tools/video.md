@@ -1,16 +1,12 @@
 # 影视
 
 ##  FongMi影视(Android)
->一款开源免费的影视壳应用，支持影视点播和电视直播，添加接口后即可正常观看。
+>开源免费的影视壳应用，支持影视点播和电视直播。每个版本同时提供 mobile（手机）与 leanback（电视盒子）两套 APK，并分别覆盖 arm64-v8a（新设备） 与 armeabi-v7a（老设备） 两种架构，满足手机与电视盒子的安装需求。
+
 ### 快速开始
 
-1. 下载安装[影视](https://gh-proxy.com/https://github.com/FongMi/Release/releases)  
-    ::: tip 下载说明
-    - leanback：电视版，遥控器操作优化
-    - mobile：手机版，触屏手势操作
-    - arm64_v8a：64 位 ARM，较新的的设备
-    - armeabi_v7a：32 位 ARM，较老的设备
-    :::
+1. 下载安装[FongMi 影视](https://git.hiwiki.org/zh-CN/repo/fongmi/release)  
+
 2. 导入影视源：复制影视源粘贴到设置-点播-配置
     - <CopyText text="https://8815.kstore.vip/tvbox/wmz" tip="点击复制">影视源1</CopyText> 
     - <CopyText text="https://gh-proxy.org/https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/%E5%A4%9A%E4%BB%93%E8%AE%A2%E9%98%85.json" tip="点击复制">影视源2</CopyText>

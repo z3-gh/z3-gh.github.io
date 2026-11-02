@@ -1,16 +1,16 @@
 # 忽略 node_modules 目录
 node_modules/
 
-# 可选：忽略 npm 调试日志
-npm-debug.log*
-yarn-error.log*
-yarn-debug.log*
+# vite 缓存
+.vite
 
 # 忽略 VitePress 构建输出目录
 docs/.vitepress/cache/
+docs/.vitepress/.temp/
 docs/.vitepress/dist/
 
-# 忽略环境变量文件
+# 忽略日志、环境变量文件
+*.log
 .env
 .env.local
 
@@ -19,5 +19,5 @@ docs/.vitepress/dist/
 Thumbs.db
 
 # 忽略 IDE 配置文件
-.vscode/
-.idea/
+.vscode
+.idea

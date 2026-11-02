@@ -6,9 +6,9 @@
 ### 快速开始
 
 1. 下载安装[LX Music](https://www.lxmusic.cn/)
-2. 导入音源：设置-自定义源管理-导入-在线导入/本地导入，导入后返回并勾选音源使其生效。
+2. 导入音源：设置-自定义源管理-导入-在线导入/本地导入，导入后需勾选音源使其生效。
    - 在线导入：点击复制 <CopyText text="https://zrcdy.dpdns.org/lx/xinghai-music-sourcev2.3.15.js" tip="点击复制">在线音源</CopyText>，粘贴导入。
-   - 本地导入：点击[本地音源](https://gh-proxy.com/https://github.com/guoyue2010/lxmusic-/releases)下载最新版压缩包，解压后导入。
+   - 本地导入：点击[本地音源](https://git.hiwiki.org/zh-CN/repo/guoyue2010/lxmusic-)下载最新版压缩包，解压后导入。
 
 
 ## 在线音乐

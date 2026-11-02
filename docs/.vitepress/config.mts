@@ -4,6 +4,13 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Z3 Blog",
   description: "个人博客，以需求为导向，优先开源免费方案，收集各类互联网需求并提供落地教程与工具推荐",
+  lang: "zh-CN",
+  locales: {
+    "/": {
+      label: "简体中文",
+      lang: "zh-CN",
+    },
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
