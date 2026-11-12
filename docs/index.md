@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Z3 Blog"
   text: 一个需求导向的知识库
-  tagline: 挖掘网络资源，记录有价值的内容
+  tagline: 挖掘互联网资源，记录有价值的内容
   actions:
     - theme: brand
       text: 工具教程
