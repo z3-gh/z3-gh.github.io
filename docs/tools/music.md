@@ -1,6 +1,6 @@
 # 音乐
 
-## LX Music（Windows、macOS、Linux 和 Android）
+## LX Music（PC、Android）
 >免费开源、干净无广告的多平台音乐聚合工具。
 
 ### 快速开始

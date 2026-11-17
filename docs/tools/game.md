@@ -1,17 +1,26 @@
 # 游戏
 
-## HM-STEAM-TOOLS(Windows)
+## HM-STEAM-TOOLS(PC)
 >本地/在线双模式Steam游戏入库管理工具，已收录数万清单，畅玩正版游戏。
 ### 快速开始
 
-1. 安装[Steam](https://store.steampowered.com/)官方游戏平台。
+1. 安装[Steam](https://store.steampowered.com/about/)官方游戏平台。
 2. 下载入库管理工具[HM-STEAM-TOOLS](https://gh-proxy.com/https://github.com/YS-CODE-GO/HM-STEAM-TOOLS/releases)并解压运行，左侧 “解锁器&核心” 安装核心,选择或搜索游戏入库。
    ::: tip 下载说明
     推荐下载内置清单版本，大小约400MB，7z压缩格式，解压密码：yingshu
    :::
 3. 到Steam库中下载、开始游戏。
 
-## 在线游戏（Web）
+## Game Cheats Manager（PC）
+>游戏修改器聚合管理工具，告别登录、付费、充斥广告的下载站，一键下载，自动更新。
+
+### 快速开始
+
+1. 下载安装[GCM](gh-proxy.com/https://github.com/dyang886/Game-Cheats-Manager/releases/)
+2. 启动软件，输入游戏名搜索修改器，双击下载。
+3. 左侧选择已安装修改器，点击启动。
+
+## 在线小游戏（Web）
 
 >[4399小游戏](https://www.4399.com/)、
 >[小霸王](https://www.yikm.net/)、

@@ -1,13 +1,13 @@
 # 阅读
 
-## Cmbok (Windows、Android、iOS)
+## Cmbok (PC、Android、iOS)
 >一款基于 Flutter 的免费开源阅读 App，聚合漫画与 z-library 图书资源，支持仿真翻页圆柱卷曲动画、果冻玻璃拟态主题、阅读进度自动记忆、章节离线批量下载与明暗模式自由切换，装一个应用就能满足所有阅读需求。
 
 ### 快速开始
 
 1. 下载安装[Cmbok](https://bluemood.xiaomy.net/)
 2. 复制 <CopyText text="Q01TMQGlO6EJyu1gxi9PtFxnz/wYoT4MP4z2ojrEIxGGaOD6gGKE+dlsuQ4zdVFPgZGJpBdLw+5EzHINTjo0olc5SXzohs9UPZ27Zq4BQ2Gb0L/02gGWlejFRpTV2mkDgc9YWsrvR/RftMxIgRGHvjzeuWOj" tip="点击复制">漫画源</CopyText> 粘贴到漫画源仓库-云端仓库,点击从云端更新。
-3. 复制<CopyText text="https://www.yckceo.com/yuedu/shuyuans/json/id/1326.json" tip="点击复制">书源</CopyText>，粘贴到书源仓库，点击从地址导入。
+3. 复制<CopyText text="https://www.yckceo.com/yuedu/shuyuans/json/id/1337.json" tip="点击复制">书源</CopyText>，粘贴到书源仓库，点击从地址导入。
 
 ## 在线阅读
 
