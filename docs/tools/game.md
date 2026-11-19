@@ -16,7 +16,7 @@
 
 ### 快速开始
 
-1. 下载安装[GCM](gh-proxy.com/https://github.com/dyang886/Game-Cheats-Manager/releases/)
+1. 下载安装[GCM](https://gh-proxy.com/https://github.com/dyang886/Game-Cheats-Manager/releases/)
 2. 启动软件，输入游戏名搜索修改器，双击下载。
 3. 左侧选择已安装修改器，点击启动。
 
